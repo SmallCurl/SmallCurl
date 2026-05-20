@@ -35,7 +35,7 @@ currently_learning:
 crew_role: Future Pirate King's Right Hand (Janitor Edition)
 ```
 ---
-<p align="center"> <img src="https://www.hackthebox.com/badge/image/1392144" alt="HTB Badge" width="400" /> </p><p align="center"> <img src="https://progress-bar.dev/81/?scale=530&title=Machines&width=300&color=00ff00" /> <img src="https://progress-bar.dev/19/?scale=829&title=Challenges&width=300&color=00ff00" /> <img src="https://progress-bar.dev/3/?scale=151&title=Sherlocks&width=300&color=00ff00" /> </p>
+<p align="center"> <img src="https://www.hackthebox.com/badge/image/1392144" alt="HTB Badge" width="400" /> </p><p align="center"> <b>Machines Rooted:</b> 81 / 530 (15%)<br> <b>Challenges Solved:</b> 19 / 829 (2%)<br> <b>Sherlocks Solved:</b> 3 / 151 (2%) </p>
 ---
 
 
