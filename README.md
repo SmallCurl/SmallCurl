@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Wassup Guys!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+---
 
-<!--
-**SmallCurl/SmallCurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-Here are some ideas to get you started:
+```yaml
+name: WHYMIR
+located_in: MALAYSIA
+current_job: Janitor
+company: confidential
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Web Development",
+    "Offensive Security",
+    "CTF"
+  ]
+currently_learning: ["Kubernetes, and AWS"]
+2026 Goals: ["Let's see how."]
+```
+---  
+
