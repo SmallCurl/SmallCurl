@@ -34,10 +34,8 @@ currently_learning:
 
 crew_role: Future Pirate King's Right Hand (Janitor Edition)
 ```
----
 <p align="center"> <img src="https://www.hackthebox.com/badge/image/1392144" alt="HTB Badge" width="400" /> </p><p align="center"> <b>Machines Rooted:</b> 81 / 530 (15%)<br> <b>Challenges Solved:</b> 19 / 829 (2%)<br> <b>Sherlocks Solved:</b> 3 / 151 (2%) </p>
----
 
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p><p align="center"> <i>🚢 "The One Piece is real and I'm gonna be the Hacker King!" - WHYMIR</i> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=WHYMIR&label=Visiting+Marines&color=ff0000&style=flat-square" /> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p><p align="center"> <i>🚢 "The One Piece is real and I'm gonna be the Hacker King!" - WHYMIR</i> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=WHYMIR&label=Visiting+Marines&color=ff0000&style=flat-square" /> </p>
 
