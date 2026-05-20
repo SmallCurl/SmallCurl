@@ -35,7 +35,7 @@ currently_learning:
 crew_role: Future Pirate King's Right Hand (Janitor Edition)
 ```
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WHYMIR&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FF4500" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=WHYMIR&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FF4500&currStreakLabel=FFFFFF" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHYMIR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700" width="45%" /> </p>
+<p align="center"> <img src="https://www.hackthebox.com/badge/image/1392144" alt="HTB Badge" width="400" /> </p><p align="center"> <img src="https://progress-bar.dev/81/?scale=530&title=Machines&width=300&color=00ff00" /> <img src="https://progress-bar.dev/19/?scale=829&title=Challenges&width=300&color=00ff00" /> <img src="https://progress-bar.dev/3/?scale=151&title=Sherlocks&width=300&color=00ff00" /> </p>
 ---
 
 
