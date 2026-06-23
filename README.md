@@ -11,26 +11,23 @@
 ```yaml
 name: WHYMIR
 located_in: GRAND LINE (MALAYSIA)
-current_job: Janitor (Straw Hat Crew)
+current_job: Janitor
 company: 🏴‍☠️ CONFIDENTIAL
 devil_fruit: 🔥 Hito Hito no Mi, Model: Nika (Awakened)
-bounty: 666,000,000 BERRIES
+bounty: 1337,000,000 BERRIES
 
 fields_of_interests:
   - 🌐 Web Development
   - ⚔️ Offensive Security
   - 🏁 CTF (Capture the Flag)
-  - 🗺️ Grand Line Navigation
 
 currently_learning:
   - ☸️ Kubernetes
   - ☁️ AWS
-  - 🗡️ Advanced Haki
 
 2026_goals:
-  - Find the One Piece
+  - Find the Missing Piece (Bug)
   - Become Hacker King
-  - Defeat the World Government
 
 crew_role: Future Pirate King's Right Hand (Janitor Edition)
 ```
